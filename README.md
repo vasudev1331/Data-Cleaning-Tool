@@ -60,6 +60,3 @@
 - ✅ Replacing tedious Jupyter notebook cleaning steps with UI  
 
 ---
-
-## 📁 Folder Structure
-
